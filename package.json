@@ -1,0 +1,25 @@
+{
+  "name": "stats-calculator",
+  "version": "1.0.0",
+  "description": "A simple stats calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Kjir/stats-calculator.git"
+  },
+  "keywords": [
+    "tdd"
+  ],
+  "author": "Stéphane Bisinger <stephane@sbisinger.ch>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kjir/stats-calculator/issues"
+  },
+  "homepage": "https://github.com/Kjir/stats-calculator#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
